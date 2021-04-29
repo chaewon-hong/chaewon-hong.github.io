@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "홍채원"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/good.png"
   bio              : "HAFS 16 Natural Science"
   location         : "대한민국, 경기도"
   email            : "ghd050113@gmail.com"
