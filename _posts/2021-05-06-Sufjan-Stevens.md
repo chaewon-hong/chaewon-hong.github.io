@@ -19,3 +19,24 @@ Michigan은 2003년에 발매된 앨범으로 미국의 미시건 주의 장소�
 
 ![SevenSwans](/assets/images/Seven Swans.jpg)
 Seven Swans는 
+
+---
+
+### 🚀Illinois
+
+![illinois](/assets/images/illinois.jpg)
+
+---
+
+### 🚀The Age Of Adz
+
+![TheAgeOgAdz](/assets/images/The Age Of Adz.jpg)
+
+---
+
+### 🚀Carrie&Lowell
+
+![CarrieLowell][CarrieLowellAlbum]
+[CarrieLowellAlbum]: https://imagescdn.juno.co.uk/full/CS560057-01A-BIG.jpg
+
+---
