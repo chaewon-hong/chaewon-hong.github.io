@@ -18,3 +18,4 @@ Michigan은 2003년에 발매된 앨범으로 미국의 미시건 주의 장소�
 ### 🚀Seven Swans
 
 ![SevenSwans](/assets/images/Seven Swans.jpg)
+Seven Swans는 
