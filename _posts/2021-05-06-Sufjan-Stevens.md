@@ -36,7 +36,7 @@ Seven Swans는
 
 ### 🚀Carrie&Lowell
 
-![CarrieLowell][CarrieLowellAlbum]
+![CarrieLowell](/assets/images/Carrie Lowell.jpg)
 [CarrieLowellAlbum]: https://imagescdn.juno.co.uk/full/CS560057-01A-BIG.jpg
 
 ---
