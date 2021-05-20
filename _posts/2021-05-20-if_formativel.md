@@ -52,7 +52,7 @@ return 0;
 
 ### 03. 이 달은 며칠까지 있을까?
 
-![calendar](/assets/images/달 며칠.png)
+![calendar](/assets/images/달며칠.png)
 
 ~~~C
 #include <stdio.h>
