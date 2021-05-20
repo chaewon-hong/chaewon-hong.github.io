@@ -31,7 +31,7 @@ return 0;
 
 ### 02. 3개의 터널 통과
 
-![tunnel(/assets/images/터널.png)
+![tunnel](/assets/images/터널.png)
 
 ~~~C
 #include <stdio.h>
