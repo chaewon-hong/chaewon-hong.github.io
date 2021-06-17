@@ -49,12 +49,4 @@ Illinois는 Michigan과 같이 지명을 제목으로 하여 그 장소에 대�
 [![TheAscension](/assets/images/The Ascension.jpg "For More Information")](https://en.wikipedia.org/wiki/The_Ascension_(Sufjan_Stevens_album))
 
 
----
-layout: single
-title: "Sufjan Stevens"
-toc: true
-toc_sticky: true
-toc_label: "페이지 주요 목차" 
-categories: 잡담
-last_modified_at: 2021-06-17 T08:06:00-05:00
----
+
